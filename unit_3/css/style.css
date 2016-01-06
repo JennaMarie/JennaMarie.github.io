@@ -1,0 +1,44 @@
+body {
+    background-image: url("https://scontent-yyz1-1.xx.fbcdn.net/hphotos-xap1/t31.0-8/883759_518954336047_1085460432_o.jpg");
+    background-repeat: no-repeat;
+	background-color: #cccccc;
+	background-position: center;
+	background-position: 0% 0%;
+	padding-top: 25px;
+	background-size: 2000px;
+	color: #ffe6cc;
+	text-align: center;
+	font-family: 'Poiret One', Arial, serif;
+	margin: 0;
+}
+h1 {
+	font-size: 30px;
+	margin-bottom: 5px;
+}
+#slogan {
+	font-size: 75px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-weight: bold;
+}
+#content {
+	margin-top: 50px;
+}
+ul {
+	list-style-type: none;
+}
+#footer {
+    position : fixed;
+    bottom : 0;
+    height : 40px;
+    margin-top : 40px;
+	font-size: 20px;
+	width: 100%;
+	text-align: center;
+	font-weight: bold;
+	background-color: ivory;
+  }
+#footer a {
+	margin: auto;
+	color: black;
+	}
